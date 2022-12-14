@@ -2,7 +2,7 @@ import time
 import pyautogui
 from threading import local
 from numpy import number
-
+ 
 M = 9
 def puzzle(a):
     for i in range(M):
