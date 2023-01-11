@@ -1,3 +1,6 @@
+# Link do gry:
+# https://onlinesudoku.pl/
+
 import time
 import pyautogui
 from threading import local
